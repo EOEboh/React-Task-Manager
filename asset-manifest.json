@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Task-Manager/static/css/main.3d43815b.chunk.css",
+    "main.js": "/React-Task-Manager/static/js/main.00b5e050.chunk.js",
+    "main.js.map": "/React-Task-Manager/static/js/main.00b5e050.chunk.js.map",
+    "runtime-main.js": "/React-Task-Manager/static/js/runtime-main.e05ab111.js",
+    "runtime-main.js.map": "/React-Task-Manager/static/js/runtime-main.e05ab111.js.map",
+    "static/css/2.58a45539.chunk.css": "/React-Task-Manager/static/css/2.58a45539.chunk.css",
+    "static/js/2.8d310b60.chunk.js": "/React-Task-Manager/static/js/2.8d310b60.chunk.js",
+    "static/js/2.8d310b60.chunk.js.map": "/React-Task-Manager/static/js/2.8d310b60.chunk.js.map",
+    "static/js/3.89ee2863.chunk.js": "/React-Task-Manager/static/js/3.89ee2863.chunk.js",
+    "static/js/3.89ee2863.chunk.js.map": "/React-Task-Manager/static/js/3.89ee2863.chunk.js.map",
+    "index.html": "/React-Task-Manager/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/React-Task-Manager/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.3d43815b.chunk.css.map": "/React-Task-Manager/static/css/main.3d43815b.chunk.css.map",
+    "static/js/2.8d310b60.chunk.js.LICENSE.txt": "/React-Task-Manager/static/js/2.8d310b60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e05ab111.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.8d310b60.chunk.js",
+    "static/css/main.3d43815b.chunk.css",
+    "static/js/main.00b5e050.chunk.js"
+  ]
+}
